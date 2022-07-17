@@ -12,12 +12,11 @@ NOTE:   To limit any accidental usage of this tool you will need to enter a 'fuz
 
 Usage:
 
-Discover and Enable Tamper Protection on all devices:
-
  #> python3 migrate-devices.py
 
 Things to come:
 - Preview of devices to be migrated.
+- Migrate devices from a list within a file
 - Status of migration job.
 
 Open license, no restrictions and not officially supported by Sophos.
